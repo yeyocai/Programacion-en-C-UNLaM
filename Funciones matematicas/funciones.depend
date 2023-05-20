@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1565810979 source:c:\users\jesi\desktop\progra\tp1\funciones\funciones.c
+	"funciones.h"
+
+1565811140 c:\users\jesi\desktop\progra\tp1\funciones\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1565809573 source:c:\users\jesi\desktop\progra\tp1\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1565814504 source:c:\users\asd\desktop\tp1\1-13 y 20-21 funciones matematicas\funciones.c
+	"funciones.h"
+
+1565811142 c:\users\asd\desktop\tp1\1-13 y 20-21 funciones matematicas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1565811756 source:c:\users\asd\desktop\tp1\1-13 y 20-21 funciones matematicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1565811756 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\1-13 y 20-21 funciones matematicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1565811142 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\1-13 y 20-21 funciones matematicas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1684543221 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\1-13 y 20-21 funciones matematicas\funciones.c
+	"funciones.h"
+
+1684543221 source:c:\users\jesi\desktop\c\1-13 y 20-21 funciones matematicas\funciones.c
+	"funciones.h"
+
+1565811142 c:\users\jesi\desktop\c\1-13 y 20-21 funciones matematicas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1565811756 source:c:\users\jesi\desktop\c\1-13 y 20-21 funciones matematicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

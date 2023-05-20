@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1566932614 source:c:\users\jesi\desktop\progra\tp1\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1566932568 c:\users\jesi\desktop\progra\tp1\fechas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+
+1566932925 source:c:\users\jesi\desktop\progra\tp1\fechas\fechas.c
+	"fechas.h"
+
+1567170028 source:d:\progra\tp1\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1566955222 d:\progra\tp1\fechas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+
+1567170454 source:d:\progra\tp1\fechas\fechas.c
+	"fechas.h"
+
+1567170518 source:c:\users\asd\desktop\tp1\14-19 fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1566955222 c:\users\asd\desktop\tp1\14-19 fechas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+
+1599857001 source:c:\users\asd\desktop\tp1\14-19 fechas\fechas.c
+	"fechas.h"
+
+1599857001 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\14-19 fechas\fechas.c
+	"fechas.h"
+
+1566955222 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\14-19 fechas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+
+1567170518 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\14-19 fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1599857001 source:c:\users\jesi\desktop\c\14-19 fechas\fechas.c
+	"fechas.h"
+
+1566955222 c:\users\jesi\desktop\c\14-19 fechas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+
+1684543536 source:c:\users\jesi\desktop\c\14-19 fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+

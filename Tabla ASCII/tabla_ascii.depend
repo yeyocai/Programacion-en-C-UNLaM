@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1599333187 source:c:\users\asd\desktop\progra 2c 2020\semana 1\tabla_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 c:\users\asd\desktop\progra 2c 2020\semana 1\tabla_ascii\tabla_ascii.h
+
+1599333187 source:c:\users\asd\desktop\progra 2c 2020\semana 1\tabla_ascii\tabla_ascii.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 source:c:\users\asd\desktop\unlam\progra 2c 2020\semana 1\tabla_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 c:\users\asd\desktop\unlam\progra 2c 2020\semana 1\tabla_ascii\tabla_ascii.h
+
+1599333187 source:c:\users\asd\desktop\unlam\progra 2c 2020\semana 1\tabla_ascii\tabla_ascii.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 source:c:\users\asd\desktop\char\tabla_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 c:\users\asd\desktop\char\tabla_ascii\tabla_ascii.h
+
+1599333187 source:c:\users\asd\desktop\char\tabla_ascii\tabla_ascii.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\tabla_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\tabla_ascii\tabla_ascii.h
+
+1599333187 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\tabla_ascii\tabla_ascii.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 source:c:\users\jesi\desktop\c\tabla_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+
+1599333187 c:\users\jesi\desktop\c\tabla_ascii\tabla_ascii.h
+
+1599333187 source:c:\users\jesi\desktop\c\tabla_ascii\tabla_ascii.c
+	<stdio.h>
+	<stdlib.h>
+	"tabla_ascii.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1632958898 source:c:\users\asd\desktop\progra 2c 2021\ejercicios de la guia\tp2\ejercicio13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio13.h"
+
+1632961177 c:\users\asd\desktop\progra 2c 2021\ejercicios de la guia\tp2\ejercicio13\ejercicio13.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632961177 source:c:\users\asd\desktop\progra 2c 2021\ejercicios de la guia\tp2\ejercicio13\ejercicio13.c
+	"ejercicio13.h"
+
+1632961177 source:c:\users\jesi\desktop\c\ejercicio13\ejercicio13.c
+	"ejercicio13.h"
+
+1632961177 c:\users\jesi\desktop\c\ejercicio13\ejercicio13.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1633015992 source:c:\users\jesi\desktop\c\ejercicio13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio13.h"
+

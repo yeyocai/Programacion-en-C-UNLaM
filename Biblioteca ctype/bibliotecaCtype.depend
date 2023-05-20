@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1599350546 source:c:\users\asd\desktop\progra 2c 2020\semana 1\bibliotecactype\bibliotecactype.c
+	"bibliotecaCtype.h"
+
+1599350546 c:\users\asd\desktop\progra 2c 2020\semana 1\bibliotecactype\bibliotecactype.h
+
+1599347588 source:c:\users\asd\desktop\progra 2c 2020\semana 1\bibliotecactype\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibliotecaCtype.h"
+
+1599350643 source:c:\users\jesi\desktop\c\bibliotecactype\bibliotecactype.c
+	"bibliotecaCtype.h"
+
+1599350546 c:\users\jesi\desktop\c\bibliotecactype\bibliotecactype.h
+

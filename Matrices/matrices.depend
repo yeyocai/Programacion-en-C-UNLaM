@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1632346949 source:c:\users\asd\desktop\progra 2c 2021\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1632346635 c:\users\asd\desktop\progra 2c 2021\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1632346871 source:c:\users\asd\desktop\progra 2c 2021\matrices\matrices.c
+	"matrices.h"
+
+1632439134 source:c:\users\jesi\desktop\c\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1684601197 c:\users\jesi\desktop\c\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1684601197 source:c:\users\jesi\desktop\c\matrices\matrices.c
+	"matrices.h"
+

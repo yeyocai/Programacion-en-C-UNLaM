@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1604006263 source:c:\users\asd\desktop\progra 2c 2020\semana 7\pilaestatica\pilaestatica.c
+	"pilaEstatica.h"
+	<string.h>
+
+1604006208 c:\users\asd\desktop\progra 2c 2020\semana 7\pilaestatica\pilaestatica.h
+
+1608130401 source:c:\users\asd\desktop\progra 2c 2020\semana 7\pilaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
+1604006263 source:c:\users\asd\desktop\pila\pilaestatica\pilaestatica.c
+	"pilaEstatica.h"
+	<string.h>
+
+1634857835 c:\users\asd\desktop\pila\pilaestatica\pilaestatica.h
+
+1634857835 source:c:\users\asd\desktop\pila\pilaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
+1634857835 source:c:\users\jesi\desktop\c\pilaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
+1634857835 c:\users\jesi\desktop\c\pilaestatica\pilaestatica.h
+
+1604006263 source:c:\users\jesi\desktop\c\pilaestatica\pilaestatica.c
+	"pilaEstatica.h"
+	<string.h>
+

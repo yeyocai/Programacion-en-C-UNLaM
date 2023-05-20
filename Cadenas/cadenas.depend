@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1630713542 source:c:\users\jonatan uran\desktop\03-09-2021\cadenas\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+
+1630715215 source:c:\users\jonatan uran\desktop\03-09-2021\cadenas\funciones.c
+
+1630715244 source:c:\users\jonatan uran\desktop\03-09-2021\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1630713503 c:\users\jonatan uran\desktop\03-09-2021\cadenas\funciones.h
+
+1630713542 source:c:\users\asd\desktop\cadenas\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+
+1630718540 source:c:\users\asd\desktop\cadenas\funciones.c
+	<string.h>
+	"funciones.h"
+
+1630718419 c:\users\asd\desktop\cadenas\funciones.h
+
+1630718585 source:c:\users\asd\desktop\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639528745 source:c:\users\asd\desktop\char\primera palabra - cant de apariciones\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1645740132 source:c:\users\asd\desktop\char\primera palabra - cant de apariciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639537109 c:\users\asd\desktop\char\primera palabra - cant de apariciones\funciones.h
+
+1639537845 source:c:\users\asd\desktop\char\primera palabra - cant de apariciones\funciones.c
+	<string.h>
+	"funciones.h"
+	"cadenas.h"
+
+1645740132 c:\users\asd\desktop\char\primera palabra - cant de apariciones\cadenas.h
+
+1639537845 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\primera palabra - cant de apariciones\funciones.c
+	<string.h>
+	"funciones.h"
+	"cadenas.h"
+
+1639537109 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\primera palabra - cant de apariciones\funciones.h
+
+1645740132 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\primera palabra - cant de apariciones\cadenas.h
+
+1645740132 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\char\primera palabra - cant de apariciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1645740132 source:c:\users\jesi\desktop\c\primera palabra - cant de apariciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1639537109 c:\users\jesi\desktop\c\primera palabra - cant de apariciones\funciones.h
+
+1684599851 source:c:\users\jesi\desktop\c\primera palabra - cant de apariciones\funciones.c
+	<string.h>
+	"funciones.h"
+	"cadenas.h"
+
+1684600179 c:\users\jesi\desktop\c\primera palabra - cant de apariciones\cadenas.h
+
+1684600149 source:c:\users\jesi\desktop\c\primera palabra - cant de apariciones\cadenas.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+

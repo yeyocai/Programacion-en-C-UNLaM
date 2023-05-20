@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1567182170 source:d:\progra\tp1\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1567190472 d:\progra\tp1\vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1567191520 source:d:\progra\tp1\vectores\vectores.c
+	"vectores.h"
+
+1567191520 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\22-26 vectores\vectores.c
+	"vectores.h"
+
+1567190472 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\ejercicios de la guia\todos\tp1\22-26 vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1684544208 source:c:\users\jesi\desktop\c\22-26 vectores\vectores.c
+	"vectores.h"
+
+1567190472 c:\users\jesi\desktop\c\22-26 vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+

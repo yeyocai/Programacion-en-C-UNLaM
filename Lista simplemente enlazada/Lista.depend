@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1605733510 source:c:\users\asd\desktop\progra 2c 2020\semana 8\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1605732275 c:\users\asd\desktop\progra 2c 2020\semana 8\lista\lista.h
+
+1605732342 source:c:\users\asd\desktop\progra 2c 2020\semana 8\lista\lista.c
+	"Lista.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1605732342 source:c:\users\asd\desktop\lista\lista\lista.c
+	"Lista.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1605732275 c:\users\asd\desktop\lista\lista\lista.h
+
+1605733510 source:c:\users\asd\desktop\lista\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1646429040 source:c:\users\jesi\desktop\c\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1684602158 c:\users\jesi\desktop\c\lista\lista.h
+

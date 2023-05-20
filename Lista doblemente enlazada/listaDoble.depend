@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606173268 source:c:\users\asd\desktop\progra 2c 2020\semana 10\listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+
+1606321892 c:\users\asd\desktop\progra 2c 2020\semana 10\listadoble\listadoble.h
+
+1606321871 source:c:\users\asd\desktop\progra 2c 2020\semana 10\listadoble\listadoble.c
+	"listaDoble.h"
+	<stdlib.h>
+	<string.h>
+

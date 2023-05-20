@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1604071106 source:c:\users\asd\desktop\cola\coladinamica\coladinamica.c
+	"colaDinamica.h"
+	<stdlib.h>
+	<string.h>
+
+1604071106 c:\users\asd\desktop\cola\coladinamica\coladinamica.h
+
+1604070993 source:c:\users\asd\desktop\cola\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colaDinamica.h"
+
+1604071106 source:c:\users\jesi\desktop\c\cola dinamica\coladinamica.c
+	"colaDinamica.h"
+	<stdlib.h>
+	<string.h>
+
+1604071106 c:\users\jesi\desktop\c\cola dinamica\coladinamica.h
+
+1604070993 source:c:\users\jesi\desktop\c\cola dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colaDinamica.h"
+

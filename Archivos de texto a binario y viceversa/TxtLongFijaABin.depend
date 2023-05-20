@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1633124607 source:c:\users\asd\desktop\progra 2c 2021\ejercicios propuestos\txtlongfijaabin\txtlongfijaabin.c
+	"TxtLongFijaABin.h"
+
+1633124607 c:\users\asd\desktop\progra 2c 2021\ejercicios propuestos\txtlongfijaabin\txtlongfijaabin.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1639693423 source:c:\users\asd\desktop\progra 2c 2021\ejercicios propuestos\txtlongfijaabin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TxtLongFijaABin.h"
+
+1639693423 source:c:\users\jesi\desktop\c\txtlongfijaabin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TxtLongFijaABin.h"
+
+1633124607 c:\users\jesi\desktop\c\txtlongfijaabin\txtlongfijaabin.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1633124607 source:c:\users\jesi\desktop\c\txtlongfijaabin\txtlongfijaabin.c
+	"TxtLongFijaABin.h"
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1604006431 source:c:\users\asd\desktop\progra 2c 2020\semana 7\piladinamica\piladinamica.c
+	<string.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1604006384 c:\users\asd\desktop\progra 2c 2020\semana 7\piladinamica\piladinamica.h
+
+1608134761 source:c:\users\asd\desktop\progra 2c 2020\semana 7\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1614956777 source:c:\users\asd\desktop\unlam\progra 2c 2020\semana 7\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1604006384 c:\users\asd\desktop\unlam\progra 2c 2020\semana 7\piladinamica\piladinamica.h
+
+1604006431 source:c:\users\asd\desktop\unlam\progra 2c 2020\semana 7\piladinamica\piladinamica.c
+	<string.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1614956777 source:c:\users\asd\desktop\pila\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1604006384 c:\users\asd\desktop\pila\piladinamica\piladinamica.h
+
+1604006431 source:c:\users\asd\desktop\pila\piladinamica\piladinamica.c
+	<string.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1614956777 source:c:\users\jesi\desktop\c\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1604006384 c:\users\jesi\desktop\c\piladinamica\piladinamica.h
+
+1604006431 source:c:\users\jesi\desktop\c\piladinamica\piladinamica.c
+	<string.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
